@@ -1,5 +1,11 @@
-# laravel-dynamic-menu-roles-permission
+# laravel-dynamic-menu-roles-permission laravel verson- 6.*
 dynamic menu generation adminb2b template spaties roles and permissions
+
+install package
+1.spaties permission
+2.lavary-menu
+
+
 
 run migration and seeder
 
